@@ -1,3 +1,7 @@
+### 0️⃣ Application Interface
+
+<img width="1354" height="988" alt="image" src="https://github.com/user-attachments/assets/400402cf-c280-43e0-9add-9d50fdb68802" />
+
 ## 🚀 Deployment Guide — News Aggregator App
 
 This guide explains how to deploy the **News Aggregator App** using Ngrok for quick demos, why Ngrok isn’t ideal for production, and a better alternative using cloud hosting like Render.
