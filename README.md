@@ -112,3 +112,10 @@ Render is a free (with paid upgrades) cloud hosting service that supports Flask 
 | **Hosting Duration**     | ⏳ Only while your PC is running             | ♾️ 24/7 uptime                        |
 | **Use Case**              | Best for quick demos or temporary sharing  | Best for production & public hosting |
 | **Cost**                  | Free                                       | Free tier + Paid plans for scaling   |
+
+## Or else we can deploy it on AWS cloud (I did that)
+
+<img width="1888" height="910" alt="image" src="https://github.com/user-attachments/assets/49cb2ff1-3c01-4e52-a17c-d53451318e64" />
+<img width="1646" height="993" alt="image" src="https://github.com/user-attachments/assets/52d9a235-170d-4637-910c-4ecd16298c24" />
+
+
